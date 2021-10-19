@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/rudesuggestions.xyz/'
+    publicPath: ''
   }
   
