@@ -8,7 +8,7 @@
 			<p class="suggestions"><span class="suggestions_title">Suggestions:</span> {{returnData}}</p>
 		</div>
 		<div class="code_link">
-			<a class="link_text" href="#">Link to Code</a>
+			<a class="link_text" href="https://github.com/PratyushAvi/rudesuggestions.xyz">Link to Code</a>
 		</div>
 	</div>
 </template>
