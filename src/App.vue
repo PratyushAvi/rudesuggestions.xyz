@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <Main/>
+    <smort-agent/>
   </div>
 </template>
 
 <script>
-import Main from './components/main.vue'
+// import Main from './components/main.vue'
+import SmortAgent from './components/SmortAgent.vue'
 
 export default {
   name: 'App',
-  title: 'rudesuggestions.xyz | (not yet)',
   components: {
-    Main
+    SmortAgent
   }
 }
 </script>
